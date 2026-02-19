@@ -486,11 +486,3 @@ Pull requests are welcome! Before submitting:
 - Satellite / space firmware security
 - Medical device firmware security
 
----
-
-<div align="center">
-
-*Maintained with ❤️ for the embedded security research community.*  
-*Covers ARM Cortex-M/A/R · RISC-V · MIPS · AVR · x86 (UEFI/BIOS) bare metal security*
-
-</div>
