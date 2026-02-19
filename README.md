@@ -468,21 +468,3 @@ Security research in this space involves:
 | **pwn.college** | Free online binary exploitation training with ARM modules | [pwn.college](https://pwn.college) |
 | **OpenSecurityTraining2** | Free deep-dive courses: Architecture 1001 (ARM), Malware RE | [ost2.fyi](https://ost2.fyi) |
 
----
-
-## 🤝 Contributing
-
-Pull requests are welcome! Before submitting:
-
-1. ✅ Resource must be **directly relevant** to bare metal security research or exploitation
-2. ✅ Links must be **live and publicly accessible**
-3. ✅ Add resources to the **correct section** with a brief, informative description
-4. ✅ Prefer primary sources (author blogs, paper PDFs, official repos) over aggregators
-5. ✅ Keep descriptions factual and specific - what will the reader *learn or gain*?
-
-**Sections that would benefit from more contributions:**
-- RISC-V bare metal security
-- Automotive ECU (bare metal) research
-- Satellite / space firmware security
-- Medical device firmware security
-
