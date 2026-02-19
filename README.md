@@ -362,20 +362,6 @@ Security research in this space involves:
 
 ---
 
-## 📦 GitHub Repositories
-
-### Awesome Lists & Meta-Collections
-
-| Repository | Stars | Description |
-|-----------|-------|-------------|
-| [fkie-cad/awesome-embedded-and-iot-security](https://github.com/fkie-cad/awesome-embedded-and-iot-security) | ⭐⭐⭐ | The most comprehensive embedded/IoT security collection; tools, papers, talks, books |
-| [hexsecs/awesome-embedded-security](https://github.com/hexsecs/awesome-embedded-security) | ⭐⭐ | Rizin, radare2, Angr, Capstone, ChameleonUltra, Bruce (offensive ESP32 firmware) |
-| [IamAlch3mist/Awesome-Embedded-Systems-Vulnerability-Research](https://github.com/IamAlch3mist/Awesome-Embedded-Systems-Vulnerability-Research) | ⭐⭐ | ARM exploit dev talks, HITB labs, leaked malware source, SEC661 links |
-| [kayranfatih/awesome-iot-and-hardware-security](https://github.com/kayranfatih/awesome-iot-and-hardware-security) | ⭐ | IoT and hardware security tools, frameworks, books aggregation |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | ⭐⭐ | Curated offensive security blogs, write-ups, and papers - strong embedded section |
-| [defcon201/awesome-list-hacking-resources](https://github.com/defcon201/awesome-list-hacking-resources) | ⭐⭐ | 200+ security tool references including EMBA, FACT, Firmwalker |
-| [m3y54m/Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap) | ⭐⭐⭐ | Full roadmap from bare metal programming basics to hardware security research |
-
 ### Exploit & Research Codebases
 
 | Repository | Paper/Source | Description |
@@ -410,7 +396,6 @@ Security research in this space involves:
 |-----------|-------------|
 | [ghidraninja/arm-bare-metal-1](https://github.com/ghidraninja/arm-bare-metal-1) | ARM bare metal crackme firmware binaries - designed for Ghidra RE practice |
 | [cpuu/arm_exploitation](https://github.com/cpuu/arm_exploitation) | ARM binary exploitation practice challenges (used in Matt Brown's series) |
-| [IamAlch3mist/Awesome-Embedded-Systems-Vulnerability-Research](https://github.com/IamAlch3mist/Awesome-Embedded-Systems-Vulnerability-Research) | Curated list of embedded RE/exploit challenges, HITB lab VMs |
 | [posborne/cmsis-svd](https://github.com/posborne/cmsis-svd) | 1,000+ CMSIS-SVD peripheral definition files for RE and tooling |
 
 ---
@@ -448,10 +433,8 @@ Security research in this space involves:
 | **SEC661: ARM Exploit Development** | SANS | Advanced | ARM/THUMB assembly, ROP chains, heap exploitation, bare metal binary exploitation |
 | **Hardware Hacking Training** | Black Hat | Advanced | Firmware analysis, JTAG, voltage glitching, SWD unlocking |
 | **ChipWhisperer Courses** | NewAE / Colin O'Flynn | Beginner–Advanced | Power analysis, AES SCA, fault injection, free course materials on [learn.chipwhisperer.io](https://learn.chipwhisperer.io) |
-| **Embedded Security Training** | Attify | Intermediate | Firmware extraction, Ghidra analysis, IoT device pentesting |
 | **Bare Metal Cyber Audio Courses** | Bare Metal Cyber | Beginner–Intermediate | Embedded cybersecurity fundamentals, audio + video format | 
 | **Applied Physical Attacks on ARM** | Hardwear.io Training | Advanced | Physical side channel, EMFI, VFI on real ARM targets |
-| **OWASP FSTM Self-Study** | OWASP (Free) | All levels | Self-paced: 9-stage firmware security testing methodology |
 
 ---
 
