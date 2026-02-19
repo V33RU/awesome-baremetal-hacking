@@ -419,7 +419,6 @@ Security research in this space involves:
 | **The Hardware Hacker** | Andrew "bunnie" Huang | 2017 | PCB analysis, chip-off, JTAG fundamentals, hardware RE philosophy |
 | **Hacking the Xbox** | Andrew "bunnie" Huang | 2003 | Classic: bare metal Xbox security break - free PDF available online |
 | **Practical IoT Hacking** | Fotios Chantzis, Ioannis Stais, et al. | 2021 | UART, JTAG, SWD, firmware extraction, wireless protocols - chapter-by-chapter practicals |
-| **The IoT Hacker's Handbook** | Aditya Gupta | 2019 | IoT attack surface, firmware reversing, hardware hacking for IoT pentesting |
 | **Building Secure Firmware** | Jiewen Yao & Vincent Zimmer | 2020 | UEFI, TrustZone, TPM, threat modeling, integrity measurement - firmware security architecture |
 | **Beyond BIOS: Developing with UEFI** | Vincent Zimmer, Michael Rothman, Suresh Marisetty | 2017 | UEFI internals, platform initialization (PEI/DXE), bare metal boot exploitation research base |
 | **Bare-Metal Embedded C Programming** | Packt | 2025 | Modern bare metal C: startup, peripherals, interrupts, RTOS - security-aware development |
