@@ -410,17 +410,6 @@ Security research in this space involves:
 
 ---
 
-### GitHub Repositories
-
-### Awesome Lists & Meta-Collections
-
-| Repository | Description |
-|-----------|-------------|
-| [IamAlch3mist/Awesome-Embedded-Systems-Vulnerability-Research](https://github.com/IamAlch3mist/Awesome-Embedded-Systems-Vulnerability-Research) | **NEW** - Massive collection of embedded/IoT vulnerability research talks, writeups, and exploits |
-| [m3y54m/Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap) | Full learning path from bare metal basics to hardware security |
-| [scriptingxss/owasp-fstm](https://github.com/scriptingxss/owasp-fstm) | OWASP Firmware Security Testing Methodology - 9-stage process |
-| [posborne/cmsis-svd](https://github.com/posborne/cmsis-svd) | 1,000+ CMSIS-SVD peripheral definition files for RE and tooling |
-
 ### Exploit & Research Codebases
 
 | Repository | Paper/Source | Description |
